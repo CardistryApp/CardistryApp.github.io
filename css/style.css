@@ -39,7 +39,7 @@
 		color: #484d55;
 	}
 	.container {
-		width: 100%;
+		width: 100% !important;
 	}
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 	{
