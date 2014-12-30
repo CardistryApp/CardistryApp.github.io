@@ -297,7 +297,8 @@
 			.image img
 			{
 				display: block;
-				width: 100%;
+				width: 150px;
+				margin: auto;
 			}
 
 			.image.fit
@@ -327,8 +328,25 @@
 			.image.featured
 			{
 				display: block;
-				width: 100%;
-				margin: 0 0 2em 0;
+				width: 185px;
+				margin: auto;
+				height: 244px;
+			}
+
+			#tiy {
+				padding-top: 25%;
+			}
+
+			.fa-twitter {
+				color: #4099FF;
+			}
+
+			.fa-github {
+				color: black;
+			}
+
+			a {
+				text-decoration: none;
 			}
 
 	/* Button */
